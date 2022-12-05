@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kmingela
+- 👋 Hi, I’m KAROLIS
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on ...
